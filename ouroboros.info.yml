@@ -1,0 +1,12 @@
+name: 'ouroboros'
+type: module
+description: 'Ouroboros Modifications'
+core_version_requirement: ^8 || ^9
+
+package: 'Custom'
+dependencies:
+  - drupal:views
+
+
+version: '2.0.0'
+project: 'ouroboros'
