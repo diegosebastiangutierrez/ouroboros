@@ -1,4 +1,8 @@
 <?php
+/**
+*implements hook_views_query_views_alter
+@inheritdoc
+*/
 
 function ouroboros_views_query_alter($view, $query) {
   
